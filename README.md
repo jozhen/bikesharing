@@ -1,9 +1,9 @@
-#Overview of the statistical analysis:
+# Overview of the statistical analysis:
 
 The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 Analysis includes visualizaitons to quickly understand the data. 
 
-Results:
+# Results:
 ![image](Resources/1.png)
 
 Checkout times peaks around 5
@@ -32,7 +32,7 @@ Top starting locations are the same top ending locations.
 Top ending locations are the same top starting locations. 
 
 
-Summary:
+# Summary:
 Majority of poeple use citibike to communte to work and subscriber makeup majority of the trips suggesting greater loyalty to the service.  
 
 More analysis can be done on office locations compared to suburban areas and more understanding of average time a normal customer becomes a subscriber.   
