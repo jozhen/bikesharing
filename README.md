@@ -1,4 +1,4 @@
-[link to dashboard](https://public.tableau.com/app/profile/john.fung/viz/NYC_Citibike_Challenge_16384189925110/Summary?publish=yes)
+[Link to Dashboard](https://public.tableau.com/app/profile/john.fung/viz/NYC_Citibike_Challenge_16384189925110/Summary?publish=yes)
 # Overview of the statistical analysis:
 
 The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
