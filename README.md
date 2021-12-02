@@ -1,4 +1,5 @@
-Overview of the statistical analysis:
+#Overview of the statistical analysis:
+
 The purpose of the analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 Analysis includes visualizaitons to quickly understand the data. 
 
