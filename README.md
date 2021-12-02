@@ -4,24 +4,30 @@ Analysis includes visualizaitons to quickly understand the data.
 
 Results:
 ![image](Resources/1.png)
+
 Checkout times peaks around 5
 
 ![image](Resources/2.png)
 There are more males checking out bikes around 5
 
 ![image](Resources/3.png)
+
 Males have more trips throughout the week but females pick up later in the week. 
 
 ![image](Resources/4.png)
+
 There are more trips around commute times. 
 
 ![image](Resources/5.png)
+
 Subscriber have more trips than normal customers. 
 
 ![image](Resources/6.png)
+
 Top starting locations are the same top ending locations.
 
 ![image](Resources/7.png)
+
 Top ending locations are the same top starting locations. 
 
 
